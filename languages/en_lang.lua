@@ -1,0 +1,16 @@
+Locales["en_lang"] = {
+    PanModeTitle = 'Gold panning',
+    PromptPan = 'Pan',
+    PromptExit = 'Exit mode',
+    PanModeEnded = 'Panning mode ended.',
+    LeftWater = 'You left the water – panning mode ended.',
+    NotInWater = 'You must be in the water to pan for gold.',
+    StillPanning = 'You are still panning – wait until you are done.',
+    YouAreGoldpaning = 'looking for Gold',
+    NothingFound = 'Nothing Found',
+    YouFound = 'You found',
+    InvFull = 'You cant carry any more',
+    needNewTool = 'You Need a New Goldpan',
+    UsageLeft = 'Durability: ',
+    FailedSkillcheck = 'You accidentally spilled the gold pan contents.',
+}

@@ -1,0 +1,16 @@
+Locales["de_lang"] = {
+    PanModeTitle = 'Goldschürfen',
+    PromptPan = 'Schürfen',
+    PromptExit = 'Modus beenden',
+    PanModeEnded = 'Schürfmodus beendet.',
+    LeftWater = 'Du hast das Wasser verlassen – Schürfmodus beendet.',
+    NotInWater = 'Du musst dich im Wasser befinden, um zu schürfen.',
+    StillPanning = 'Du schürfst noch – warte bis du fertig bist.',
+    YouAreGoldpaning = 'Du schürfst nach Gold.',
+    NothingFound = 'Du hast nichts gefunden.',
+    YouFound = 'Du findest: ',
+    InvFull = 'Du kannst nicht mehr tragen.',
+    needNewTool = 'Du brauchst eine neue Goldpfanne.',
+    UsageLeft = 'Haltbarkeit: ',
+    FailedSkillcheck = 'Du hast den Goldpfanneninhalt ausversehen verschüttet.',
+}
